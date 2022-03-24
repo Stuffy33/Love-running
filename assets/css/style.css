@@ -211,3 +211,23 @@ hr{
 #times h2{
     color: white;
 }
+
+footer{
+    height: 150px;
+}
+
+.social-network{
+    text-align: center;
+}
+
+.social-network li{
+    display: inline;
+}
+
+.social-network i{
+    font-size: 160%;
+    margin: 1px;
+    padding: 5%;
+    color: #252525;
+
+}
